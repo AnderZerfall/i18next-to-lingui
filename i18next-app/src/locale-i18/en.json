@@ -1,0 +1,12 @@
+{
+  "app": {
+    "title": "TS Translation App",
+    "switch": "Change to Spanish"
+  },
+  "content": {
+    "body": "This is a type-safe implementation."
+  },
+  "status": {
+    "label": "Current Language: English"
+  }
+}

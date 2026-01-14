@@ -1,0 +1,12 @@
+{
+     "app": {
+      "title": "Aplicación de traducción TS",
+      "switch": "Cambiar a Inglés"
+    },
+    "content": {
+      "body": "Esta es una implementación segura."
+    },
+    "status": {
+      "label": "Idioma actual: Español"
+    }
+}
