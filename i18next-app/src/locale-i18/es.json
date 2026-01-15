@@ -1,12 +1,20 @@
 {
-     "app": {
-      "title": "Aplicación de traducción TS",
-      "switch": "Cambiar a Inglés"
-    },
-    "content": {
-      "body": "Esta es una implementación segura."
-    },
-    "status": {
-      "label": "Idioma actual: Español"
+  "app": {
+    "title": "Aplicación de traducción TS",
+    "switch": "Cambiar a Inglés"
+  },
+  "content": {
+    "body": "Esta es una implementación segura."
+  },
+  "status": {
+    "label": "Idioma actual: Español"
+  },
+  "page": {
+    "title": "Page Title",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "submit": "Submit"
     }
+  }
 }

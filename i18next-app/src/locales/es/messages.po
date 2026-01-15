@@ -1,0 +1,16 @@
+"Language: es"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+
+msgid "Aplicación de traducción TS"
+msgstr "Aplicación de traducción TS"
+
+msgid "Cambiar a Inglés"
+msgstr "Cambiar a Inglés"
+
+msgid "Esta es una implementación segura."
+msgstr "Esta es una implementación segura."
+
+msgid "Current Language: English"
+msgstr "Idioma actual: Español"
+

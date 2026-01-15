@@ -3,4 +3,6 @@ export enum TransformErrors {
   NoTranslationArguments = 'NoTranslationArguments',
   InvalidJson = 'InvalidJson',
   MissingKey = 'MissingKey',
+  NoSourcePath = 'NoSourcePath',
+  NoTargetPath = 'NoTargetPath',
 }

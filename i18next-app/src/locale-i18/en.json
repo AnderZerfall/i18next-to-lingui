@@ -8,5 +8,13 @@
   },
   "status": {
     "label": "Current Language: English"
+  },
+  "page": {
+    "title": "Page Title",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "submit": "Submit"
+    }
   }
 }

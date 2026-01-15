@@ -1,0 +1,28 @@
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+
+msgid "TS Translation App"
+msgstr "TS Translation App"
+
+msgid "Change to Spanish"
+msgstr "Change to Spanish"
+
+msgid "This is a type-safe implementation."
+msgstr "This is a type-safe implementation."
+
+msgid "Current Language: English"
+msgstr "Current Language: English"
+
+msgid "Page Title"
+msgstr "Page Title"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Submit"
+msgstr "Submit"
+

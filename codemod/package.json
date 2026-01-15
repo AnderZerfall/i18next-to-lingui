@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "codemod:react": "node ./scripts/run-react-transformer.mjs",
+    "codemod:translation": "node ./scripts/run-json-to-po-transformer.mjs"
   },
   "jest": {
     "preset": "ts-jest",
@@ -9,9 +11,13 @@
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/jscodeshift": "^17.3.0",
+    "@types/minimist": "^1.2.5",
     "@types/node": "^25.0.8",
     "jest": "^29.7.0",
     "jscodeshift": "^17.3.0",
     "ts-jest": "^29.1.0"
+  },
+  "dependencies": {
+    "minimist": "^1.2.8"
   }
 }
